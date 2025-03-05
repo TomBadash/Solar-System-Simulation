@@ -1,6 +1,7 @@
 # Interactive Solar System Simulation
 
 An interactive 3D visualization of our solar system built with Next.js, React Three Fiber, and TypeScript. This project provides an educational and engaging way to explore the planets in our solar system.
+![image](https://github.com/user-attachments/assets/d7927a7b-55cb-434a-9dd2-4f95aad389ee)
 
 ## Features
 
